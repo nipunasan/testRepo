@@ -14,4 +14,5 @@ echo "<h2>DB Username: ".$dbUsername."</h2></br>";
 echo "<h2>DB Password: ".$dbPassword."</h2></br>";
 echo "</body>";
 echo "</html>";
+
 ?>
